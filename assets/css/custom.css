@@ -10,22 +10,15 @@
     overflow: hidden;
     margin: 0;
     padding: 0;
-    position: relative;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-}
-
-header {
+body,
+html {
     margin: 0;
     padding: 0;
     width: 100%;
 }
 
-.post {
-    margin: 0;
-    padding: 0;
+.page-content {
     width: 100%;
 }
