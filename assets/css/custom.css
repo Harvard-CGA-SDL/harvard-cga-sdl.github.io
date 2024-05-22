@@ -1,7 +1,8 @@
 .full-width-banner {
     width: 100%;
     display: block;
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
 }
 
 .banner {
@@ -9,4 +10,22 @@
     overflow: hidden;
     margin: 0;
     padding: 0;
+    position: relative;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.post {
+    margin: 0;
+    padding: 0;
+    width: 100%;
 }
