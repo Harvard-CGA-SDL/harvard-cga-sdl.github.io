@@ -5,7 +5,7 @@
 title: Spatial Data Lab # the website title (if blank, full name will be used instead)
 first_name: Spatial Data Lab
 middle_name: 
-last_name: Harvard CGA
+last_name: @ Harvard CGA
 email: spatialdatalab@lists.fas.harvard.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Spatial Data Lab and Future Data Lab Affiliates. Based on [*folio](https://github.com/bogoli/-folio) design.

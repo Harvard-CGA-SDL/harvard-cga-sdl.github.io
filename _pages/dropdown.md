@@ -5,8 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: Regional Policy Lab
+    permalink: /regional_policy/
   - title: divider
   - title: projects
     permalink: /projects/
