@@ -19,10 +19,6 @@
   <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
     <!-- Header -->
     {% include header.liquid %}
-    <div class="banner">
-      <img src="{{ '/assets/img/banner.jpg' | relative_url }}" alt="Welcome Banner" class="full-width-banner">
-    </div>
-
     <!-- Content -->
     <div class="container mt-5" role="main">
       {% if page.toc and page.toc.sidebar %}
