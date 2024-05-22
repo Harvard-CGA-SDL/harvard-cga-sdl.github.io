@@ -1,9 +1,10 @@
 .full-width-banner {
-    width: 100%;
+    width: 100vw;
     height: 150px;
     object-fit: cover;
     display: block;
-    margin: 0 auto;
+    margin: 0;
+    padding: 0;
 }
 
 .banner {
