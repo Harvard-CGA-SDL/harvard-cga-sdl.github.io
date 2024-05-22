@@ -12,8 +12,8 @@ social: true # includes social icons at the bottom of the page
   <img src="/assets/img/banner.jpg" alt="Welcome Banner" style="width: 100%; display: block; margin: 0 auto;">
 </div>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+As a part of the [NSF Spatiotemporal Innovation Center project](https://www.stcenter.net/), the [Spatial Data Lab](https://projects.iq.harvard.edu/chinadatalab) is co-sponsored by the Future Data Lab and KNIME. The project aims to promote the development of a new generation of methodologies and technologies for spatial data analysis, spatial data sharing, and applied research in the fields of spatiotemporal innovation, including population, business, environment, and health. The main tasks of the spatial data lab include: (1) spatial data services; (2) development of spatial data analysis platform and tools; (3) development of case studies based on workflow data analysis for replicable, reproducible and expandable research; and (4) spatial data science training.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The project are guided by an independent [academic advisory committee](https://projects.iq.harvard.edu/chinadatalab/advisory-committee-0) formed by world-renowned scholars with a diverse background of research domains.
+

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Regional Policy
+description: Spatial Data Lab for Regional Policy and Future Work
 img: assets/img/12.jpg
 importance: 1
 category: work
