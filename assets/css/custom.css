@@ -1,0 +1,10 @@
+.full-width-banner {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.banner {
+    width: 100%;
+    overflow: hidden;
+}
