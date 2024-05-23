@@ -12,3 +12,14 @@ As a part of the [NSF Spatiotemporal Innovation Center project](https://www.stce
 
 The project are guided by an independent [academic advisory committee](https://projects.iq.harvard.edu/chinadatalab/advisory-committee-0) formed by world-renowned scholars with a diverse background of research domains.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
