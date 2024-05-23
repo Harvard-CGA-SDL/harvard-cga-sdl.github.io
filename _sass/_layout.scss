@@ -38,6 +38,37 @@ body.sticky-bottom-footer {
   }
 }
 
+.banner {
+  width: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.full-width-banner {
+  background-image: url("assets/img/banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 120px;
+  width: 100%;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+.page-content {
+  width: 100%;
+}
+
 // TODO: redefine content layout.
 
 /******************************************************************************
